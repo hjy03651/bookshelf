@@ -1,5 +1,5 @@
 # bookshelf
-- A program for manage the books of haegal
+- A program for managing the books of haegal
 
 # Update history
 ## Ver 1.1.0
